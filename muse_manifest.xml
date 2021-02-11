@@ -1,0 +1,146 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.milexinc.com" resolutions="1x" timestamp="1554242774410">
+  <folder name="css">
+    <file name="site_global.css" crc="439961781"/>
+    <file name="master_a-p_g_-maestra.css" crc="448102410" ref="milex--products:milex--contac:index"/>
+    <file name="milex--products.css" crc="4133871020" ref="milex--products"/>
+    <file name="iefonts_milex--products.css" crc="245752086" ref="milex--products"/>
+    <file name="milex--contac.css" crc="3915416506" ref="milex--contac"/>
+    <file name="iefonts_milex--contac.css" crc="188004222" ref="milex--contac"/>
+    <file name="index.css" crc="110418027" ref="index"/>
+    <file name="iefonts_index.css" crc="234034817" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="img_milex_01.jpg" crc="494684364" seo="true" mt="1552418617000"/>
+    <file name="img_milex_02.jpg" crc="305085019" seo="true" mt="1550778406000"/>
+    <file name="img_milex_06.jpg" crc="154984278" seo="true" mt="1550778936000"/>
+    <file name="img_milex_03_c.jpg" crc="107359382" seo="true" mt="1552942813000"/>
+    <file name="img_milex_02_b_2.jpg" crc="349642074" seo="true" mt="1553024330000"/>
+    <file name="img_milex_01_b_2.jpg" crc="3983355727" seo="true" mt="1553024141000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:milex--products:milex--contac"/>
+    <file name="museutils.js" crc="340535759" ref="index:milex--products:milex--contac"/>
+    <file name="whatinput.js" crc="86476730" ref="index:milex--products:milex--contac"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:milex--products:milex--contac"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:milex--products:milex--contac"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:milex--products:milex--contac"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:milex--products:milex--contac"/>
+    <file name="webpro.js" crc="4059564322" ref="index:milex--contac"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:milex--contac"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:milex--products:milex--contac"/>
+    <file name="require.js" crc="7928878" ref="index:milex--products:milex--contac"/>
+    <file name="form_check.php" crc="4020933626" ref="milex--contac"/>
+    <file name="form_throttle.php" crc="4259590256" ref="milex--contac"/>
+    <file name="form_process.php" crc="37464564" ref="milex--contac"/>
+    <file name="form-u1595.php" crc="491786473" ref="milex--contac"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="497642898" ref="index"/>
+    <file name="logo_milex-inc.png" crc="105424078" ref="index:milex--products:milex--contac">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="milex--contac" alt=""/>
+      <caption webpage="milex--products" alt=""/>
+    </file>
+    <file name="phone_milex-inc.png" crc="111375669" ref="index:milex--products:milex--contac">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:milex--products:milex--contac"/>
+    <file name="our_company.png" crc="3953194573" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="products_milex.png" crc="116342022" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_products_2.png" crc="3919015024" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="security_products_milex.jpg" crc="228207951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intendance_products_milex.jpg" crc="3936141089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="providers-milex.png" crc="4186782566" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-bender_ok.jpg" crc="366685106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kflogowhite.png" crc="4234275303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logobellevilleboots.png" crc="89858111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotipo_marto.png" crc="4236368392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logowaterbutton.png" crc="193716205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_gentex.png" crc="139351851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logopropper_2.png" crc="531877461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="burlington_raeford.png" crc="4253702997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="milliken logo 2011.png" crc="3971512273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="behind_clientes_milex.png" crc="3862132985" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="next_clientes_milex.png" crc="3853079301" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pilot-milex-inc.png" crc="140209238" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="star_milex.png" crc="3873788863" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="piloto_2_milex.png" crc="3833566235" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="movil_milex.png" crc="4061101283" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email_milex.png" crc="51932520" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="address_milex.png" crc="3913204605" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_air_force.jpg" crc="404749310" ref="milex--products">
+      <caption webpage="milex--products" alt=""/>
+    </file>
+    <file name="security_productos_milex.png" crc="391766575" ref="milex--products">
+      <caption webpage="milex--products" alt=""/>
+    </file>
+    <file name="intendacnce_productos_milex.png" crc="363811653" ref="milex--products">
+      <caption webpage="milex--products" alt=""/>
+    </file>
+    <file name="milex_intendence_01.png" crc="3918054578" ref="milex--products">
+      <caption webpage="milex--products" alt=""/>
+    </file>
+    <file name="contact_milex.png" crc="4141787507" ref="milex--contac">
+      <caption webpage="milex--contac" alt=""/>
+    </file>
+    <file name="force_milex.png" crc="4226081496" ref="milex--contac">
+      <caption webpage="milex--contac" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4109497909" seo="true" mt="1554220067331" redirect="true"/>
+  <file name="milex--products.html" crc="237994298" seo="true" mt="1553887305362" redirect="true"/>
+  <file name="milex--contac.html" crc="3796222992" seo="true" mt="1553887305362" redirect="true"/>
+</manifest>
